@@ -2,5 +2,5 @@
 
 Olá! Bem vindo ao meu libro de Receitas! :wave:
 
-- Receita de Pavê
-- 
+- Pavê
+- Strogonoff de Frango
